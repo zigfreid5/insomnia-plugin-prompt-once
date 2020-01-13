@@ -1,0 +1,14 @@
+{
+  "name": "insomnia-plugin-prompt-once",
+  "version": "1.0.0",
+  "description": "Insomnia plugin that provides a template tag similar to 'Prompt', but will only prompt if the value does not exist. Can be used as an easily modifiable local URL path variable.",
+  "main": "index.js",
+  "author": {
+    "name": "zigfreid5"
+  },
+  "insomnia": {
+    "name": "prompt-once",
+    "description": "Prompt for value if it doesn't already exist"
+  },
+  "license": "MIT"
+}
